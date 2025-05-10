@@ -1,14 +1,12 @@
-{
-    "profiles": [
-        "elonmusk",
-        "sama",
-        "naval",
-        "patrickchughes",
-        "dickc",
-        "pmarca",
-        "jack",
-        "levelsio",
-        "paulg",
-        "thejrb"
-    ]
-}
+[
+    "elonmusk",
+    "sama",
+    "naval",
+    "patrickchughes",
+    "dickc",
+    "pmarca",
+    "jack",
+    "levelsio",
+    "paulg",
+    "thejrb"
+]
